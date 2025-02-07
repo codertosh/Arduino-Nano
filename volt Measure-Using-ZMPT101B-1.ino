@@ -1,3 +1,4 @@
+//When 5v external power supply used
 #include <Wire.h>
 #define SENSOR_PIN A2
 #define SAMPLES 200          // Increase sample size
